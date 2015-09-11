@@ -1,0 +1,17 @@
+{
+  "name": "falcor-vertx-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vertx run index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramukima",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "falcor": "^0.1.12",
+    "falcor-router": "^0.2.9",
+    "url": "^0.11.0"
+  }
+}
