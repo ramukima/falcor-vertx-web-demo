@@ -1,9 +1,6 @@
 # falcor-vertx-web-demo
 Demonstrate Falcor + vertx-web integration
 
-# falcor-vertx-web-demo
-Demonstrate Falcor + vertx-web integration
-
 HowToRun
 ========
 Pre-requisites :
