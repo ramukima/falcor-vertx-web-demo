@@ -1,13 +1,14 @@
 # falcor-vertx-web-demo
 Demonstrate Falcor + vertx-web integration
 
-HowToRun
-========
-Pre-requisites :
+Pre-requisite
+=============
 * Note that this module does not use NPM version of vert.x min/base/full as dependency. So, vertx is installed and the vertx executable is in the PATH.
 * export NODE_PATH=$NODE_PATH:/usr/local/lib/node_modules:./node_modules
 * package.json does not specify any dependency on falcor-vertx-web (currently not in NPM repository). So make sure that ramukima/falcor-vertx-web project is NPM built/installed (either globally or locally).
 
+HowToRun
+========
 ```
 git clone <repo>
 cd <repo>
